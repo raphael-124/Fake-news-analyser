@@ -4,29 +4,28 @@
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
-### 🔍 Analysis Options
+### Analysis Options
 - **URL-to-Insight**: Automatically scrapes and cleans news content from any live URL using **BeautifulSoup**.
 - **Raw Text Analysis**: Paste raw text directly into the analyzer for instant linguistic verification.
 
-### 🧠 AI Models
+### AI Models
 - **Logistic Regression**: High-speed traditional ML analysis.
 - **Random Forest**: Robust ensemble learning for improved accuracy.
 - **DistilRoBERTa Transformer**: State-of-the-art NLP for deep semantic understanding.
 
-### 📜 Analysis History (New!)
+### Analysis History (New!)
 - **Persistent Sidebar**: Automatically saves your last 10 analyses in a beautiful glassmorphism sidebar.
 - **Data Persistence**: Uses `localStorage` to keep your history safe even after page refreshes.
 - **Instant Reload**: Click any previous analysis to instantly view the results and model confidence again.
 
-### 🎨 Modern UI
+###  Modern UI
 - **Glassmorphism Design**: High-end visual aesthetics with vibrant gradients and subtle blurs.
 - **Responsive Layout**: Optimized for all screen sizes, from mobile to desktop.
 
----
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Backend
 - **FastAPI**: Modern, high-performance web framework for Python.
@@ -41,7 +40,7 @@
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.9+
@@ -65,12 +64,12 @@ Alternatively, run them manually:
 
 ---
 
-## ⚖️ License
+## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
