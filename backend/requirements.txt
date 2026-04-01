@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+beautifulsoup4
+requests
+pydantic>=2.0.0
+transformers
+torch
+tf-keras
+typing-extensions
